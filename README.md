@@ -1,5 +1,7 @@
 # Notes
 
+<img src = "https://miro.medium.com/max/2402/1*nR0NeS0h4va61v84O-D6aw.png">
+
 Target website : The Juice Shop.
 
 * Proxy - What allows us to funnel traffic through Burp Suite for further analysis
